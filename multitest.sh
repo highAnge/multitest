@@ -5,7 +5,7 @@
 # ============================================================
 
 SCRIPT_VERSION="1.1"
-REPO_URL="https://raw.githubusercontent.com/saveksme/multitest/master/multitest.sh"
+REPO_URL="https://raw.githubusercontent.com/highAnge/multitest/master/multitest.sh"
 
 # Цвета
 RED='\033[0;31m'
